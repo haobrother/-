@@ -18,7 +18,7 @@
 
 具体的内容目录如下:
 
-- [工作流规范](./blob/master/workflow/develop.md)
+- [工作流规范](./workflow/develop.md)
 - 技术栈规范
 - 项目组织规范
 - 文档规范
